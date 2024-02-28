@@ -1,0 +1,95 @@
+#gamezone{
+    border: 1px solid black;
+    background-color: rgb(35, 170, 148);
+    width: 650px;
+    height: 350px;
+    margin-left: 600px;
+    background: url(https://p16-tm-sg.tiktokmusic.me/img/tos-alisg-v-2102/257e209d6d2b45f18c7c68f25b20befd~c5_500x500.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    
+}
+body{
+    background-color: gainsboro;
+    
+    background: url(https://studybreaks.com/wp-content/uploads/2021/12/Image-from-iOS-1-2.jpg);
+    
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+#lll{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+#llll{
+    display: flex;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    align-content: center;
+    margin-left: 666px;
+}
+
+
+#button2{
+    height: 60px;
+    width: 160px;
+    margin-left: 840px;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 20px;
+    background-color: palegreen;
+    border-radius: 20px;
+}
+#button2:hover{
+    background-color: rgb(97, 161, 97);
+    color: rgb(209, 209, 209);
+}
+.character{
+    background-color: rgb(0, 62, 197);
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    
+
+    background-image: url("https://media.tenor.com/t3dLLNaI50oAAAAM/cat-cats.gif");
+    background-size: cover;
+    background-position: center;
+
+    display: none;
+
+}
+
+.silly{
+    background-image: url("https://i1.sndcdn.com/artworks-zyYqA8D0BdfuyH28-WeeHrw-t500x500.jpg");
+    background-size: cover;
+    background-position: center;
+}
+p{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 5px 2px 2px black;
+}
+p:hover{
+    color: rgb(207, 207, 207);
+}
+
+
+.hidden{
+    display: none;
+}
+
+.visible{
+    display: block;
+}
+/*При наведении*/
+.character:hover{
+    scale: 1.1;  /*увеличивается размер*/
+}
